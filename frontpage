@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> merobhabisya </title>
+<link rel ="stylesheet" type="text/css" href ="style.css">
+</head>
+<body>
+<header>
+<div class ="bgimage">
+<div class = "menu">
+<div class = "leftmenu">
+<h4>MeroBhabisya</h4>
+</div>
+<div class="rightmenu">
+<ul>
+<li> Home </li>
+<li> Services </li>
+<li> About Us </li>
+<li> More Info </li>
+<li> Fill Form </li>
+</ul>
+</div>
+</div>
+
+</div>
+</header>
+</body>
+</html>
+
+
